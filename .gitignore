@@ -1,13 +1,1 @@
-.DS_Store
-node_modules/
-mjpash/
-**/\#*
-**/*\#*
-**/?*
-**/*.log
-.env
-# Exclude everything except the public directory
-/*
-!public/
-!netlify.toml
-!.gitignore 
+.DS_store
